@@ -6,7 +6,7 @@
  # About me 
  
  Linkedin : https://www.linkedin.com/in/anri-tvalabeishvili-8018ab195/    <br/>
- Facebook : https://www.facebook.com/anri.tvalabeishvili.7    <br/>
+ Facebook : https://www.facebook.com/Anri.Tvalabeishvil   <br/>
  Github : https://github.com/anri-Tvalabeishvili    <br/>
  stackoverflow : https://stackoverflow.com/users/17742066/anri-tvalabeishvili   <br/>
   
