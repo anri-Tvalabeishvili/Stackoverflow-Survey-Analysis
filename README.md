@@ -2,11 +2,7 @@
 
  used Sources : https://insights.stackoverflow.com/survey
  
- I divided the data into 4 large groups: 
-                                        Developer Profile 
-                                        Technology 
- Work 
- Community
+ I divided the data into 4 large groups: Developer Profile, Technology, Work, Community.
  
  # About me 
  
