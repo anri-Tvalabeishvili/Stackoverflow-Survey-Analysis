@@ -11,3 +11,6 @@
  Github : https://github.com/anri-Tvalabeishvili    <br/>
  stackoverflow : https://stackoverflow.com/users/17742066/anri-tvalabeishvili   <br/>
   
+# Note 
+
+"Work_Analyzed_Data" and "Community_Analyzed_Data" are without Comments
