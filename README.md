@@ -21,8 +21,8 @@
 # Some necessary logic and functions for data processing
 
 ## functions:
-- Build_Barh_sizes   aasda
-asdasdasdasdasd
-> Build_Barh_sizes   dasdasd 
-asdasdawdahgawdawd asd as
+
+### Build_Barh_sizes:
+ this function bulds hbar
+
 
