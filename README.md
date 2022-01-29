@@ -22,6 +22,6 @@
 
 ## functions:
 - Build_Barh_sizes
-- Build_Barh_sizes
+> Build_Barh_sizes
 
 
