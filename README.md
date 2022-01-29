@@ -4,7 +4,9 @@
  
  I divided the data into 4 large groups: Developer Profile, Technology, Work, Community.
  
- # About me 
+ 
+# About me 
+ 
  
  Linkedin : https://www.linkedin.com/in/anri-tvalabeishvili-8018ab195/    <br/>
  Facebook : https://www.facebook.com/Anri.Tvalabeishvil   <br/>
@@ -14,10 +16,3 @@
 # Note 
 
 "Work_Analyzed_Data" and "Community_Analyzed_Data" are without Comments
-
-
-Developer Survey 2019
-
-
-
-
