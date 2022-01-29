@@ -16,13 +16,3 @@
 # Note 
 
 "Work_Analyzed_Data" and "Community_Analyzed_Data" are without Comments
-
-
-# Some necessary logic and functions for data processing
-
-## functions:
-
-### Build_Barh_sizes:
- this function bulds hbar
-
-
