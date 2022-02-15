@@ -2,7 +2,10 @@
 
 In order to learn data analysis, I analyzed "Developer Survey 2019" data, each step of the code is given in the form of comments (in English). 
 All functions are accompanied by comments to facilitate an understanding of their function and working principle.
-A small part of the code has no comments, although the functions in these codes are commented on. <br>
+A small part of the code has no comments, although the functions in these codes are commented on. 
+This repository processes four main types of data: Developer Profile, Technology, Work, Community.
+<br>
+<br>
 Codes without comment: 
 * Work_Analyzed_Data
 * Community_Analyzed_Data
