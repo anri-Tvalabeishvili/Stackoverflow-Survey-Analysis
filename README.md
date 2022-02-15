@@ -5,8 +5,7 @@ All functions are accompanied by comments to facilitate an understanding of thei
 A small part of the code has no comments, although the functions in these codes are commented on.  <br>
 This repository processes four main types of data: Developer Profile, Technology, Work, Community.  <br>
 <br>
-<br>
-### Codes without comment: 
+##### Codes without comment: 
 * Work_Analyzed_Data
 * Community_Analyzed_Data
 
