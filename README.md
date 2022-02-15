@@ -11,7 +11,6 @@ Codes without comment:
 * Community_Analyzed_Data
 
 
-This repository processes four main types of data: Developer Profile, Technology, Work, Community.
 
 
 ## Used Data and their sources
