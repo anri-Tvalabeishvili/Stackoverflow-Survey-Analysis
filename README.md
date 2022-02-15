@@ -1,7 +1,13 @@
 # 💻 Analysis of Developer Survey 2019 (stackoverflow)
 
 In order to learn data analysis, I analyzed "Developer Survey 2019" data, each step of the code is given in the form of comments (in English). 
- 
+All functions are accompanied by comments to facilitate an understanding of their function and working principle.
+A small part of the code has no comments, although the functions in these codes are commented on.
+Codes without comment: 
+* Work_Analyzed_Data
+* Community_Analyzed_Data
+
+
 This repository processes four main types of data: Developer Profile, Technology, Work, Community.
 
 
@@ -27,7 +33,4 @@ Developer Survey 2019 : https://insights.stackoverflow.com/survey
  Github : https://github.com/anri-Tvalabeishvili    <br/>
  stackoverflow : https://stackoverflow.com/users/17742066/anri-tvalabeishvili   <br/>
   
-  
-# Note 
 
-"Work_Analyzed_Data" and "Community_Analyzed_Data" are without Comments
