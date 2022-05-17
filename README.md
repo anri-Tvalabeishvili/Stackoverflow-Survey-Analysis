@@ -60,8 +60,8 @@ For this project, I was interestested in using Stack Overflow data to better und
 Each `ipynb` file processes specific year data.
 
 #### Each file contains 3 large sections, namely:
-- `import some Required libraries and data` In this section we will import the libraries and data to be used in the future.
-- `Create functions for data processing` In this section we will create the functions which help us to easily calculate data and create a customized Bar Chart, in future.
+- `import some Required libraries and data` In this section we will import the libraries and data to be used in the future. <br>
+- `Create functions for data processing` In this section we will create the functions which help us to easily calculate data and create a customized Bar Chart, in future. <br>
 - `Data processing with a certain classification`
 
 
