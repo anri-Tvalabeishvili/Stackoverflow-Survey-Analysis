@@ -32,14 +32,14 @@ This repository processes four main types of data: Developer Profile, Technology
 
 ## Installation <a name="installation"></a>
 
-- This project is built using Python versions 3.6.3 and jupyter notebook 3.2.1.
+- This project is built using Python versions 3.9.4 and jupyter notebook 6.4.11.
 - Libraries used:
 
-    `Pandas (1.3.4)`
+    `Pandas (1.4.2)`
 
-    `Numpy (1.21.2)`
+    `Numpy (1.22.3)`
 
-    `Matplotlib library (3.4.3)`
+    `Matplotlib (3.5.2)`
 
 
 
