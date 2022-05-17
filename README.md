@@ -1,12 +1,9 @@
-# 💻 Analysis of Developer Survey 2019 (stackoverflow)
+# 💻 Analysis of Developer Survey (stackoverflow)
 
-In order to learn data analysis, I analyzed "Developer Survey 2019" data, each step of the code is given in the form of comments (in English). <br>
+each step of the code is given in the form of comments (in English). <br>
 
 All functions are accompanied by comments to facilitate an understanding of their function and working principle. <br>
 
-A small part of the code has no comments, although the functions in these codes are commented on.  <br>
-
-This repository processes four main types of data: Developer Profile, Technology, Work, Community.  <br>
 
 
 ### Table of Contents
