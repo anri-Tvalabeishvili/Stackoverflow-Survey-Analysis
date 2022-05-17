@@ -1,8 +1,5 @@
 # 💻 Analysis of Developer Survey (stackoverflow)
 
-each step of the code is given in the form of comments (in English). <br>
-
-All functions are accompanied by comments to facilitate an understanding of their function and working principle. <br>
 
 
 
@@ -57,8 +54,8 @@ For this project, I was interestested in using Stack Overflow data to better und
 
 ## File Descriptions <a name="files"></a>
 
-Each `ipynb` file processes specific year data. <br/>
-Each step of the code is given in the form of comments (in English)
+Each `ipynb` file processes specific year data.
+
 #### Each file contains 3 large sections, namely:
 - `import some Required libraries and data` In this section we will import the libraries and data to be used in the future. 
 
