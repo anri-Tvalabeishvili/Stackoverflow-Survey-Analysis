@@ -26,7 +26,7 @@
 
 
 
-## Tech/Framework <a name="installation"></a>
+## 🦾 Tech/Framework <a name="installation"></a>
 
 - This project is built using `Python (3.9.4)` version and `jupyter notebook (6.4.11)`.
 - Libraries used:
@@ -43,7 +43,7 @@
 
 
 
-## Project Motivation<a name="motivation"></a>
+## 🎯 Project Motivation<a name="motivation"></a>
 
 #### My goals:
 
@@ -64,7 +64,7 @@
 
 
 
-## File Descriptions <a name="files"></a>
+## 📄 File Descriptions <a name="files"></a>
 
 Each `ipynb` file processes specific year data.
 
