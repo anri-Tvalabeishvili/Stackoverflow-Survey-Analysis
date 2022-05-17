@@ -2,6 +2,9 @@
 
 ### To better understand and navigate the code, it is recommended to download it and run it on your computer
 
+<br/>
+<br/>
+<br/>
 
 ### Table of Contents
 
