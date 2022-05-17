@@ -6,7 +6,7 @@
 ### Table of Contents
 
 1. [Data sources](#Data_sources)
-2. [Installation](#installation)
+2. [Tech/Framework](#installation)
 4. [Project Motivation](#motivation)
 5. [File Descriptions](#files)
 6. [About me](#me)
@@ -24,7 +24,7 @@
 
 
 
-## Installation <a name="installation"></a>
+## Tech/Framework <a name="installation"></a>
 
 - This project is built using `Python (3.9.4)` version and `jupyter notebook (6.4.11)`.
 - Libraries used:
