@@ -43,6 +43,16 @@
 
 ## Project Motivation<a name="motivation"></a>
 
+My goals:
+
+1. Thorough study of the python.
+2. Study of data analysis
+3. Getting to know Python libraries better
+4. Refine my existing skills
+5. Acquire new skills and experience
+6. Create a new project for my Portfolio
+
+
 For this project, I was interestested in using Stack Overflow data to better understand:
 
 1. What are the distributions of women with respect to country, ethnicity, level of education, etc.
