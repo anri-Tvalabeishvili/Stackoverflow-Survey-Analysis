@@ -12,7 +12,7 @@ This repository processes four main types of data: Developer Profile, Technology
 ### Table of Contents
 
 1. [Installation](#installation)
-2. [Data sources] (#Data_sources)
+2. [Data sources](#Data_sources)
 3. [Project Motivation](#motivation)
 4. [File Descriptions](#files)
 5. [Results](#results)
