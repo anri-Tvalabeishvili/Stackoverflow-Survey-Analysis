@@ -11,37 +11,32 @@ This repository processes four main types of data: Developer Profile, Technology
 
 ### Table of Contents
 
-1. [Installation](#installation)
-2. [Data sources](#Data_sources)
-3. [Project Motivation](#motivation)
-4. [File Descriptions](#files)
-5. [Results](#results)
-6. [Acknowledgements](#licensing)
+1. [Data sources](#Data_sources)
+2. [Installation](#installation)
+4. [Project Motivation](#motivation)
+5. [File Descriptions](#files)
+6. [Results](#results)
+7. [Acknowledgements](#licensing)
 
 
 ## Data sources <a name="Data_sources"></a>
-- The original data is 197MB, to download please go to [Stack Over Flow Annual Developer Survey](https://insights.stackoverflow.com/survey) and choose the dataset for 2019.
+- The original data is more than 500 MB, to download please go to [Stack Over Flow Annual Developer Survey](https://insights.stackoverflow.com/survey) and choose the dataset you need.
+
+
+## Installation <a name="installation"></a>
+
+- This project is built using Python versions 3.6.3 and jupyter notebook 3.2.1.
+- Libraries used:
+
+    `Pandas (1.3.4)`
+
+    `Numpy (1.21.2)`
+
+    `Matplotlib library (3.4.3)`
 
 
 
 
-
-
-
-
-## Used Data and their sources
-
-Developer Survey 2019 : https://insights.stackoverflow.com/survey
- 
-
-## Tech/Framework used : 
-
-* Python (3.9.7)
-* CSV
-* NumPy library (1.21.2)
-* Pandas library  (1.3.4)
-* Matplotlib library (3.4.3)
-* Jupyterlab (Notebook) (3.2.1)
  
  
 ## ℹ️ About me:
