@@ -60,7 +60,9 @@ For this project, I was interestested in using Stack Overflow data to better und
 Each `ipynb` file processes specific year data.
 
 #### Each file contains 3 large zones, namely:
-- asdasd
+- `Pandas (1.4.2)`
+- `Pandas (1.4.2)`
+-- `Pandas (1.4.2)`
 
 
  
